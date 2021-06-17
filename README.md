@@ -1,0 +1,1 @@
+# Simple Project Using Next.js
